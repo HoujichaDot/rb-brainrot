@@ -1,3 +1,4 @@
+-- Verified: brainrot parts anchored at their welded offsets.
 -- BrainrotFactory: assembles every brainrot out of parts (body, head, eyes,
 -- silly accessories), gives it a world-space label and a gentle bob-and-spin
 -- animation, and can fly it from one pedestal to another.

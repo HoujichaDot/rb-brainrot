@@ -1,3 +1,4 @@
+-- Verified: tsunami banner uses PlaybackState instead of IsPlaying.
 -- HUD: the whole ScreenGui  Ecash panel, tsunami banner, rarity legend,
 -- how-to panel, toast stack, rebirth button and the flash frame.
 -- Nothing sits in the top-left corner (the Roblox menu buttons live there).
