@@ -1,3 +1,15 @@
+# Rojo build artefacts
 game.rbxl.lock
+*.rbxlx
+*.rbxm.lock
+
+# Submission staging
 out/
 
+# Tooling scratch
+sourcemap.json
+node_modules/
+
+# OS noise
+.DS_Store
+Thumbs.db
